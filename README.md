@@ -8,7 +8,8 @@
 
 # Issues
 $ Solve the Issue
-user password algorithm
+1)user password algorithm
+#
 $ Not solve
-2) Integration Backend to frontend
+1)Integration Backend to frontend
 
