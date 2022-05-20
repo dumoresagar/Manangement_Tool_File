@@ -5,3 +5,10 @@
 3) pip install djangoframework-simplejwt
 4) pip install mysqlclient
 5) pip install django-colorfield
+
+# Issues
+$ Solve the Issue
+user password algorithm
+$ Not solve
+2) Integration Backend to frontend
+
