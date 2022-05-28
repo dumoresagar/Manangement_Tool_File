@@ -1,6 +1,8 @@
-# Task_Manangement_Tool_File
+# Code in Master Branch
+# Custom User,Email and Password
+# Register and Login
 
-# Master Branch
+# Manangement_Tool_File
 # Library
 1) pip install djangorestframework
 2) pip install django-cors-headers
